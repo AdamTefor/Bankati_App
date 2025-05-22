@@ -1,0 +1,33 @@
+12-May-2025 23:21:09.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/10.1.36
+12-May-2025 23:21:09.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Feb 13 2025 13:13:30 UTC
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               10.1.36.0
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.12+8-LTS-286
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+12-May-2025 23:21:09.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\USER\IdeaProjects\Banque
+12-May-2025 23:21:09.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Users\USER\Desktop\Serveur\apache-tomcat-10.1.36-windows-x64\apache-tomcat-10.1.36
+12-May-2025 23:21:09.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+12-May-2025 23:21:09.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+12-May-2025 23:21:09.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+12-May-2025 23:21:09.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+12-May-2025 23:21:09.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Users\USER\Desktop\Serveur\apache-tomcat-10.1.36-windows-x64\apache-tomcat-10.1.36
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\USER\IdeaProjects\Banque
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\USER\IdeaProjects\Banque\temp
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\USER\IdeaProjects\Banque\conf\logging.properties
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Users\USER\AppData\Local\JetBrains\IntelliJ IDEA 2024.3.3\lib\idea_rt.jar=50958:C:\Users\USER\AppData\Local\JetBrains\IntelliJ IDEA 2024.3.3\bin
+12-May-2025 23:21:09.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+12-May-2025 23:21:09.249 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+12-May-2025 23:21:09.279 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+12-May-2025 23:21:09.654 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+12-May-2025 23:21:09.676 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [813] millisecondes
+12-May-2025 23:21:09.736 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+12-May-2025 23:21:09.736 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/10.1.36]
+12-May-2025 23:21:09.749 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\USER\IdeaProjects\Banque\conf\Catalina\localhost\Banque-web.xml]
+12-May-2025 23:21:10.276 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\USER\IdeaProjects\Banque\conf\Catalina\localhost\Banque-web.xml] a pris [524] ms
+12-May-2025 23:21:10.281 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+12-May-2025 23:21:10.355 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [679] millisecondes
